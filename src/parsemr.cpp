@@ -1,5 +1,8 @@
+#include <cstring>
+#include <iostream>
 #include "ExternalSequence.h"
 #include <stdio.h>
+
 
 //#include <chrono> // for std::this_thread::sleep_for()
 //#include <thread> // for std::this_thread::sleep_for()
@@ -21,6 +24,20 @@ void print_usage()
 
 int main(int argc, char** argv)
 {
+    // Handle help early to avoid option-parsing edge cases
+for (int i = 1; i < argc; i++) {
+    if (0 == strcmp(argv[i], "-h") || 0 == strcmp(argv[i], "--help")) {
+        std::cout
+            << "parsemr: standalone Pulseq file loader\n"
+            << "         This is a small C++ application intended\n"
+            << "         to test and demo the Pulseq C++ library code\n"
+            << "usage: parsemr <sequence_file> [-g] [-m]\n"
+            << "  optional flags -g and -m can be used to request the parser to generate gradient waveform or gradient moment plots of the entire sequence as binary blobs\n";
+        return 0;
+    }
+}
+
+    
     if (argc < 2)
     {
         print_usage();
