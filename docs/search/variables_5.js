@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['factor',['factor',['../structSoftDelayEvent.html#a3b5a0ff882c6c46acabb213abb252c84',1,'SoftDelayEvent']]],
+  ['first',['first',['../structGradEvent.html#a9049571f6197668b102469265d101ed7',1,'GradEvent']]],
+  ['flag',['flag',['../structLabelValueStorage.html#ac9ac2f3c414f129902b6b31df7e6f39c',1,'LabelValueStorage']]],
+  ['flagval',['flagVal',['../structLabelEvent.html#a4b6cf8fdf912808c94429e2c3bc23ed5',1,'LabelEvent']]],
+  ['flagvalmax',['flagValMax',['../structMinMaxLabelStorage.html#a9596b8a3ea95a0984fcbc00474b46f83',1,'MinMaxLabelStorage']]],
+  ['flagvalmin',['flagValMin',['../structMinMaxLabelStorage.html#a63c794e809d2e844e1f10ce78b64086d',1,'MinMaxLabelStorage']]],
+  ['flattime',['flatTime',['../structGradEvent.html#a175e39ece5a9cfcb7b4e787bf26dc5de',1,'GradEvent']]],
+  ['freqoffset',['freqOffset',['../structRFEvent.html#af529651f8183f64e6511d08b596160c1',1,'RFEvent::freqOffset()'],['../structADCEvent.html#ad2c29984d5f34b08355ed21f8978d215',1,'ADCEvent::freqOffset()']]],
+  ['freqppm',['freqPPM',['../structRFEvent.html#a4aedc6dff189b38022179204a408746f',1,'RFEvent::freqPPM()'],['../structADCEvent.html#aecb5f528a58322b08f4d89fb77c964e4',1,'ADCEvent::freqPPM()']]]
+];

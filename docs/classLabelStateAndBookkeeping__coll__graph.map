@@ -1,0 +1,7 @@
+<map id="LabelStateAndBookkeeping" name="LabelStateAndBookkeeping">
+<area shape="rect" id="node2" href="$structMinMaxLabelStorage.html" title="MinMaxLabelStorage" alt="" coords="5,189,153,217"/>
+<area shape="rect" id="node3" href="$structLabelValueStorage.html" title="List of MDH IDs. " alt="" coords="251,189,385,217"/>
+<area shape="rect" id="node4" href="$structLabelStorage.html" title="LabelStorage\&lt; int \&gt;" alt="" coords="138,97,277,125"/>
+<area shape="rect" id="node5" href="$structLabelStorage.html" title="LabelStorage\&lt; T \&gt;" alt="" coords="224,5,356,33"/>
+<area shape="rect" id="node6" href="$structLabelStorage.html" title="LabelStorage\&lt; bool \&gt;" alt="" coords="301,97,450,125"/>
+</map>

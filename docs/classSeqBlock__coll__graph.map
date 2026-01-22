@@ -1,0 +1,9 @@
+<map id="SeqBlock" name="SeqBlock">
+<area shape="rect" id="node2" href="$structTriggerEvent.html" title="Trigger event (extension) " alt="" coords="5,5,105,33"/>
+<area shape="rect" id="node3" href="$structGradEvent.html" title="Gradient event data. " alt="" coords="130,5,215,33"/>
+<area shape="rect" id="node4" href="$structRotationEvent.html" title="Rotation event (extension) " alt="" coords="239,5,346,33"/>
+<area shape="rect" id="node5" href="$structADCEvent.html" title="ADC readout event. " alt="" coords="370,5,455,33"/>
+<area shape="rect" id="node6" href="$structSoftDelayEvent.html" title="SoftDelayEvent" alt="" coords="479,5,594,33"/>
+<area shape="rect" id="node7" href="$structRFEvent.html" title="RF event data. " alt="" coords="618,5,693,33"/>
+<area shape="rect" id="node8" href="$structRfShimmingEvent.html" title="RF shimming event (extension) " alt="" coords="717,5,847,33"/>
+</map>
